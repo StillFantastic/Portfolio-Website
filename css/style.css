@@ -1,5 +1,6 @@
 * {
 	box-sizing: border-box;
+	font-family: sans-serif;
 }
 
 body {
@@ -9,7 +10,6 @@ body {
 }
 
 hr {
-	color: #7d97ad;
 	background-color: #7d97ad;
 	border: none;
 	height: 2.5px;
